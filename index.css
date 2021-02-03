@@ -1,0 +1,32 @@
+body {
+    padding: 0;
+    margin: 0;
+    
+}
+
+.heroCat {
+    width: 100%;
+    top: 0;
+    padding: 0;
+    margin: 0;
+    z-index: -1;
+    
+    
+}
+
+.heroText {
+    /* background-color: #3a7ec6; */
+    color: white;
+    width: 550px;
+    position: relative; 
+    top: 100px;
+    margin-left: 50px;
+    padding: 25px;
+    font-family: 'Lobster', sans-serif ;
+}
+
+.screenHeight{
+    height: 100vh;
+    position: absolute;
+    overflow: hidden;
+}
